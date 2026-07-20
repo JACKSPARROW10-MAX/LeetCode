@@ -1,2 +1,2 @@
 # LeetCode
-1)Two Sym
+1)Two Sum
