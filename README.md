@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Database
 |  |
 | ------- |
@@ -42,4 +43,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
