@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +68,9 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
