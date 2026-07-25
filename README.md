@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0274-h-index) |
+| [3536-maximum-product-of-two-digits](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
