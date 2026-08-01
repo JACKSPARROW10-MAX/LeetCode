@@ -85,6 +85,7 @@
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2485-find-the-pivot-integer](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -128,4 +129,8 @@
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
