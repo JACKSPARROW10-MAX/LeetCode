@@ -16,6 +16,7 @@
 | [0485-max-consecutive-ones](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0645-set-mismatch) |
+| [0877-stone-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -88,6 +89,7 @@
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0877-stone-game) |
 | [2485-find-the-pivot-integer](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -136,4 +139,8 @@
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2485-find-the-pivot-integer) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
