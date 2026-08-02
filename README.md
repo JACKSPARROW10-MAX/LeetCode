@@ -78,6 +78,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0299-bulls-and-cows](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0345-reverse-vowels-of-a-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3838-weighted-word-mapping](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
 | ------- |
