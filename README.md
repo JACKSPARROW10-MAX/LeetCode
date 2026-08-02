@@ -17,6 +17,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0877-stone-game) |
+| [1260-shift-2d-grid](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -49,10 +50,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3838-weighted-word-mapping](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3838-weighted-word-mapping) |
