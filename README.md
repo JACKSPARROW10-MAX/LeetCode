@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -90,6 +91,7 @@
 | [0383-ransom-note](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0412-fizz-buzz) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3838-weighted-word-mapping](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -102,6 +104,7 @@
 | [0009-palindrome-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0877-stone-game) |
