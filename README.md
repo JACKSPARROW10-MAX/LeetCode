@@ -72,10 +72,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -142,11 +144,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Prefix Sum
 |  |
