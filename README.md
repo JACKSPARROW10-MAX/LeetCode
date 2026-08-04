@@ -35,6 +35,7 @@
 | [0299-bulls-and-cows](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -88,6 +89,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0389-find-the-difference) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3838-weighted-word-mapping](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -110,12 +112,14 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0274-h-index) |
+| [0389-find-the-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
