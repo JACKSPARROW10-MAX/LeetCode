@@ -24,6 +24,7 @@
 | [1470-shuffle-the-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3731-find-missing-elements](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@
 | [0645-set-mismatch](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3731-find-missing-elements](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3536-maximum-product-of-two-digits](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
