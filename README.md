@@ -95,6 +95,7 @@
 | [0389-find-the-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0520-detect-capital) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3838-weighted-word-mapping](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
