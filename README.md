@@ -31,6 +31,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3731-find-missing-elements) |
@@ -70,6 +71,7 @@
 | [0054-spiral-matrix](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Simulation
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3536-maximum-product-of-two-digits](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
