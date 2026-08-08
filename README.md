@@ -34,6 +34,7 @@
 | [2545-sort-the-students-by-their-kth-score](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3731-find-missing-elements](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3895-count-digit-appearances) |
@@ -149,6 +150,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
