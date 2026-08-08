@@ -137,6 +137,7 @@
 | [0877-stone-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2396-strictly-palindromic-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -199,6 +200,7 @@
 | [0283-move-zeroes](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Stack
 |  |
 | ------- |
@@ -241,4 +243,8 @@
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
