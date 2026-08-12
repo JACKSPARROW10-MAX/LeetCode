@@ -42,6 +42,7 @@
 | [3731-find-missing-elements](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [1260-shift-2d-grid](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -263,4 +265,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2396-strictly-palindromic-number) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
