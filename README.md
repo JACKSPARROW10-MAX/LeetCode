@@ -44,6 +44,7 @@
 | [3838-weighted-word-mapping](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3838-weighted-word-mapping](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
