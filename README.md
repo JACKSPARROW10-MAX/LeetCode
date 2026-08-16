@@ -18,6 +18,7 @@
 | [0645-set-mismatch](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1310-xor-queries-of-a-subarray](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -175,6 +176,7 @@
 | [0461-hamming-distance](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0645-set-mismatch) |
+| [1310-xor-queries-of-a-subarray](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1829-maximum-xor-for-each-query](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -242,6 +244,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [2485-find-the-pivot-integer](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2485-find-the-pivot-integer) |
