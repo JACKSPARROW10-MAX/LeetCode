@@ -40,6 +40,7 @@
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -195,6 +196,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
@@ -276,6 +278,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Brainteaser
 |  |
 | ------- |
