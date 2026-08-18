@@ -47,6 +47,7 @@
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3467-transform-array-by-parity](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3701-compute-alternating-sum) |
@@ -209,6 +210,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3467-transform-array-by-parity](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
@@ -222,6 +224,7 @@
 | [1512-number-of-good-pairs](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3467-transform-array-by-parity](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
