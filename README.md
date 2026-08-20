@@ -48,6 +48,7 @@
 | [2942-find-words-containing-character](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -114,6 +115,7 @@
 | [2079-watering-plants](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
