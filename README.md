@@ -18,6 +18,7 @@
 | [0645-set-mismatch](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0888-fair-candy-swap) |
+| [0896-monotonic-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1310-xor-queries-of-a-subarray](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
