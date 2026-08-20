@@ -152,6 +152,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1844-replace-all-digits-with-characters](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2942-find-words-containing-character](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
