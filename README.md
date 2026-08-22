@@ -299,6 +299,7 @@
 |  |
 | ------- |
 | [0385-mini-parser](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0385-mini-parser) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -331,4 +332,16 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
