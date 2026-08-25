@@ -286,6 +286,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0385-mini-parser](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0385-mini-parser) |
 | [1441-build-an-array-with-stack-operations](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -314,6 +315,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0385-mini-parser](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0385-mini-parser) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Enumeration
@@ -352,6 +354,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -360,5 +363,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
