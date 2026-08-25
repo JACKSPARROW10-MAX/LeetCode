@@ -287,6 +287,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0385-mini-parser](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0385-mini-parser) |
 | [1441-build-an-array-with-stack-operations](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -316,6 +317,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0385-mini-parser](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0385-mini-parser) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Enumeration
@@ -355,6 +357,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -364,5 +367,6 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
