@@ -169,6 +169,7 @@
 | [1844-replace-all-digits-with-characters](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [1927-sum-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1927-sum-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
