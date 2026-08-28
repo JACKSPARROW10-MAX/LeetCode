@@ -96,6 +96,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Database
 |  |
 | ------- |
@@ -209,6 +210,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3895-count-digit-appearances](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
