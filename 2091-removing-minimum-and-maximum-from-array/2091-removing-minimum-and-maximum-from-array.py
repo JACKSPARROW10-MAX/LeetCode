@@ -3,8 +3,6 @@ class Solution(object):
         a=nums.index(min(nums))+1
         b=nums.index(max(nums))+1
         case1,case2,case3=0,0,0
-        print(a)
-        print(b)
         if a<b:
             case1=b
             case2=len(nums)-a+1
