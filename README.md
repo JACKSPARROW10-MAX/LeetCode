@@ -41,6 +41,7 @@
 | [1929-concatenation-of-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2079-watering-plants](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2079-watering-plants) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -350,6 +351,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Brainteaser
 |  |
