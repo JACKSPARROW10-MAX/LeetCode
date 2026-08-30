@@ -13,9 +13,6 @@ class Solution(object):
             case1=a
             case2=len(nums)-b+1
             case3=b+len(nums)-a+1
-        print(case1)
-        print(case2)
-        print(case3)
         return min(case1,case2,case3)
         
         
