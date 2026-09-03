@@ -215,6 +215,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -282,6 +283,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0877-stone-game) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -343,6 +345,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
 | ------- |
