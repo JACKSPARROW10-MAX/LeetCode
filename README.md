@@ -73,6 +73,7 @@
 | [3895-count-digit-appearances](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -319,6 +320,7 @@
 | [2485-find-the-pivot-integer](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
 |  |
 | ------- |
