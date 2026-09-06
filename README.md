@@ -160,6 +160,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0115-distinct-subsequences](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0125-valid-palindrome) |
 | [0299-bulls-and-cows](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -283,6 +284,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0877-stone-game) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
