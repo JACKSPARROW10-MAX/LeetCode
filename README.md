@@ -173,6 +173,7 @@
 | [0412-fizz-buzz](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0520-detect-capital) |
+| [0940-distinct-subsequences-ii](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -290,6 +291,7 @@
 | [0115-distinct-subsequences](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
