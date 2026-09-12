@@ -40,6 +40,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2079-watering-plants](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2079-watering-plants) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -264,6 +265,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -281,6 +283,7 @@
 | [1512-number-of-good-pairs](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3467-transform-array-by-parity](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
@@ -373,6 +376,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1927-sum-game) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Brainteaser
