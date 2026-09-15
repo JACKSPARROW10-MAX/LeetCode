@@ -150,6 +150,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -306,6 +307,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0283-move-zeroes) |
