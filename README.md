@@ -64,6 +64,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3483-unique-3-digit-even-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3701-compute-alternating-sum) |
@@ -99,6 +100,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3731-find-missing-elements) |
@@ -160,6 +162,7 @@
 | [0206-reverse-linked-list](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -364,6 +367,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
