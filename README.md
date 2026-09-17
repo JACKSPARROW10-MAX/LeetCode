@@ -117,6 +117,7 @@
 | [0182-duplicate-emails](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0184-department-highest-salary) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Matrix
 |  |
 | ------- |
