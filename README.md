@@ -233,6 +233,7 @@ Two
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3516-find-closest-person](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
