@@ -198,6 +198,7 @@ Two
 | [1927-sum-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2785-sort-vowels-in-a-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -289,6 +290,7 @@ Two
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2785-sort-vowels-in-a-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3467-transform-array-by-parity](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3467-transform-array-by-parity) |
