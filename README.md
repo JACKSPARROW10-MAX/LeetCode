@@ -30,6 +30,7 @@ Two
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1630-arithmetic-subarrays](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1672-richest-customer-wealth](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -98,6 +99,7 @@ Two
 | [1015-smallest-integer-divisible-by-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1630-arithmetic-subarrays](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1980-find-unique-binary-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -281,6 +283,7 @@ Two
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1630-arithmetic-subarrays](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
