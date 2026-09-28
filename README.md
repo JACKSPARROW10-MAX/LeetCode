@@ -51,6 +51,7 @@ Two
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -289,6 +290,7 @@ Two
 | [1833-maximum-ice-cream-bars](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2785-sort-vowels-in-a-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -407,6 +409,7 @@ Two
 | [1927-sum-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1927-sum-game) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Brainteaser
 |  |
