@@ -127,6 +127,7 @@ Two
 | [0183-customers-who-never-order](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0197-rising-temperature) |
 | [1393-capital-gainloss](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1393-capital-gainloss) |
 | [1757-recyclable-and-low-fat-products](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
