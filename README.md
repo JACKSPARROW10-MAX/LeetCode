@@ -9,6 +9,7 @@ Two
 | ------- |
 | [0001-two-sum](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0274-h-index) |
@@ -335,6 +336,7 @@ Two
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0877-stone-game) |
@@ -471,4 +473,8 @@ Two
 | ------- |
 | [0100-same-tree](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
