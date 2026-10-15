@@ -60,6 +60,7 @@
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -412,6 +413,7 @@
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
