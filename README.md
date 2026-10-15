@@ -62,6 +62,7 @@
 | [2683-neighboring-bitwise-xor](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -107,6 +108,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -479,4 +481,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0053-maximum-subarray) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
