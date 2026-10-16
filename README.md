@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -97,6 +98,7 @@
 | [0383-ransom-note](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0888-fair-candy-swap) |
@@ -299,6 +301,7 @@
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0888-fair-candy-swap) |
