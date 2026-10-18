@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0219-contains-duplicate-ii](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0283-move-zeroes) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0219-contains-duplicate-ii](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0383-ransom-note) |
@@ -235,6 +237,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0219-contains-duplicate-ii](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
