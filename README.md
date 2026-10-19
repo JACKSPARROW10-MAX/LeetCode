@@ -51,6 +51,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2079-watering-plants](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2079-watering-plants) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -184,6 +185,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0888-fair-candy-swap) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
 |  |
@@ -318,6 +320,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2785-sort-vowels-in-a-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
