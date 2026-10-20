@@ -214,6 +214,7 @@
 | [0385-mini-parser](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0520-detect-capital) |
@@ -248,6 +249,7 @@
 | [0009-palindrome-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0509-fibonacci-number) |
@@ -288,6 +290,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/JACKSPARROW10-MAX/LeetCode/tree/master/0645-set-mismatch) |
