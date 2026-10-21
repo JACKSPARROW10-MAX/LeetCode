@@ -1,6 +1,5 @@
 
 # LeetCode
-1)Two Sum
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
